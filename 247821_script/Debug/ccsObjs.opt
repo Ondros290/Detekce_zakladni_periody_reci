@@ -1,0 +1,1 @@
+"./aic23.obj" "./dsp.obj" "./fir_filter.obj" "./generate.obj" "./hello.obj" "./hellocfg.obj" "./hellocfg_c.obj" "./interp.obj" -l"./hellocfg.cmd" -llibc.a -lcsl6416.lib -ldsk6416bsl.lib 
